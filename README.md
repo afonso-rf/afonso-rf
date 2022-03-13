@@ -1,6 +1,6 @@
 # Olá! Sou Afonso Filho
 
-- 🔭 Atualmente trabalho com Analista de Redes - NOC
+- 🔭 Atualmente trabalho como *Analista de Redes - NOC*
 - 🌱 Estou estudando sobre Kubernetes, Python, JavaStript e HTML
 <div style="display: inline_block">
   <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
