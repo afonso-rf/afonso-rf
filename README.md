@@ -1,7 +1,8 @@
 # Olá! Sou Afonso Filho
 
 - 🔭 Atualmente trabalho como *Analista de Redes - NOC*
-- 🌱 Estou estudando sobre Kubernetes, Python, JavaStript e HTML
+- 🌱 Estou estudando sobre Kubernetes, DevOps, Cloud, Python, JavaStript e HTML+CSS
+- Iniciante na Cultura DevOps
 <div style="display: inline_block">
   <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
